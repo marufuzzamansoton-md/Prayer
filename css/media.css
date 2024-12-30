@@ -1,0 +1,296 @@
+/* Extra small */
+@media (max-width: 575.98px) {
+    .navbar-toggler {
+        background: #ffff;
+    }
+    .navbar-collapse {
+        background: #383838;
+        text-align: center;
+        padding:20px 0 40px 0;
+        margin-top: 10px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0px;
+        padding-bottom: 30px;
+    }
+    .banner h1 {
+        font-size: 45px;
+        padding-bottom: 30px;
+    }
+    #banner {
+        padding: 60px 0;
+    }
+    .banner p {
+        padding-top: 60px;
+    }
+    #relevant {
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+    .headline h2 {
+        font-size: 24px;
+    }
+    .relevant {
+        padding-top: 20px;
+    }
+    .relevant-item {
+        padding: 40px;
+        margin-bottom: 30px;
+    }
+    .headline p {
+        padding-top: 0px;
+    }
+    #love .headline {
+        padding-bottom: 15px;
+    }
+    .section-bottom-head p {
+        padding: 0 40px;
+    }
+    #love {
+        padding-bottom: 40px;
+    }
+    #benifits {
+        padding: 60px 0;
+    }
+    #benifits .headline h2 {
+        padding: 0 60px;
+        line-height: 37px;
+    }
+    .text h3 {
+        line-height: 40px;
+    }
+    .benifits-item {
+        margin-bottom: 30px;
+    }
+    #event {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #event .headline h2 {
+        line-height: 40px;
+    }
+    .event-left {
+        padding: 60px 60px 60px 60px;
+    }
+    #visit {
+        padding: 61px 0;
+    }
+    .visit-left h2 {
+        font-size: 21px;
+        line-height: 36px;
+    }
+    .visit-left p {
+        padding-right: 0;
+    }
+    .visit-right img {
+        width:50%;
+    }
+    .visit-right {
+        text-align: right;
+    }
+    .visit-main {
+        padding: 40px 30px
+    }
+    .visit-left a {
+        padding: 14px 40px;
+    }
+    #blog {
+        padding: 60px 0;
+    }
+    .blog-item {
+        margin-bottom: 30px;
+    }
+    .subscribe h3 {
+        font-size: 26px;
+    }
+    .form button {
+        padding: 24px 24px;
+    }
+}
+
+/* small device */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler {
+        background: #ffff;
+    }
+    .navbar-collapse {
+        background: #383838;
+        text-align: center;
+        padding:20px 0 40px 0;
+        margin-top: 10px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0px;
+        padding-bottom: 30px;
+    }
+    .banner h1 {
+        font-size: 45px;
+        padding-bottom: 30px;
+    }
+    #banner {
+        padding: 60px 0;
+    }
+    .banner p {
+        padding-top: 60px;
+    }
+    #relevant {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .relevant-item {
+        margin-bottom: 30px;
+    }
+    .headline h2 {
+        font-size: 34px;
+    }
+    .headline p {
+        padding:15px 0 0 0;
+    }
+    .love-img {
+        padding-top: 0;
+    }
+    .butn a {
+        padding: 15px 30px;
+    }
+    #love {
+        padding-bottom: 40px;
+    }
+    #benifits {
+        padding: 70px 0;
+    }
+    #benifits .headline h2 {
+        padding: 0 0px;
+        line-height: 48px;
+    }
+    .text h3 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .item-overlay {
+        bottom: -130px;
+    }
+    .text {
+        padding: 32px 20px 13px 20px;
+    }
+    .benifits-item {
+        margin-bottom: 30px;
+    }
+    #event {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    #event .headline h2 {
+        font-size: 32px;
+        line-height: 46px;
+    }
+    .visit-right img {
+        width:50%;
+    }
+    .visit-right {
+        text-align: right;
+    }
+    .visit-left p {
+        padding-right: 50px;
+    }
+    .visit-left h2 {
+        font-size: 31px;
+        line-height: 46px;
+    }
+    #visit {
+        padding: 60px 0;
+    }
+    #blog {
+        padding: 70px 0;
+    }
+    .blog-item {
+        padding: 15px 15px;
+        margin-bottom: 30px;
+    }
+    .blog-item h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
+
+/* medium device */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .contact_btn a {
+        padding: 15px 32px;
+    }
+    .contact_btn {
+        width: 198px;
+        margin:0 auto ;
+    }
+    .banner p:after {
+        bottom: 12px;
+    }
+    .relevant-item {
+        padding: 20px;
+    }
+    .relevant-item h3 {
+        font-size: 22px;
+    }
+    #benifits .headline h2 {
+        padding: 0 60px;
+    }
+    .benifits-item {
+        margin-bottom: 30px;
+    }
+    .visit-left h2 {
+        font-size: 38px;
+    }
+    .blog-item {
+        margin-bottom: 30px;
+    }
+    .navbar-toggler {
+        background: #ffff;
+    }
+    .navbar-collapse {
+        background: #383838;
+        text-align: center;
+        padding:20px 0 40px 0;
+        margin-top: 10px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0px;
+        padding-bottom: 30px;
+    }
+}
+/* medium device */
+@media (min-width: 992px) and (max-width: 1024px) {
+    .banner h1 {
+        font-size: 54px;
+    }
+    .relevant-item {
+        padding: 58px;
+    }
+    .relevant-item h3 {
+        font-size: 24px;
+    }
+    .banner p {
+        padding-right: 50px;
+    }
+    .text h3 {
+        font-size: 20px;
+    }
+    .headline h2 {
+        font-size: 37px;
+        line-height: 56px;
+    }
+    .event-left {
+        padding: 60px 30px 79px 30px;
+    }
+    .visit-left h2 {
+        font-size: 40px;
+        line-height: 52px;
+    }
+    .visit-left p {
+        padding-right: 5px;
+    }
+    .blog-item {
+        padding: 32px 17px;
+    }
+    .form button {
+        padding: 24px 20px;
+    }
+}
